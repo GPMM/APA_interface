@@ -1,4 +1,6 @@
-Este projeto consiste na interface do professor do projeto de TCC `APA` desenvolvido pelos alunos Fernando, Rafaela e Yasmin no CEFET/RJ. 
+## Descrição
+Este projeto consiste na interface do professor do projeto de TCC *APA* desenvolvido pelos alunos Fernando, Rafaela e Yasmin no CEFET/RJ. 
+
 
 ## Rodando localmente
 
