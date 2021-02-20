@@ -9,7 +9,7 @@ class Footer extends Component {
           <nav className="pull-left">
             <ul>
               <li>
-                <a href="#">Home</a>
+                <a href="/dashboard">Home</a>
               </li>
               <li>
                 <a href="https://github.com/rafaelaandrews">Github</a>
@@ -18,8 +18,8 @@ class Footer extends Component {
           </nav>
           <p className="copyright pull-right">
             &copy; {new Date().getFullYear()}{" "}
-            <a href="http://www.creative-tim.com?ref=lbr-footer">
-              Creative Tim
+            <a href="https://github.com/rafaelaandrews">
+              Rafaela Andrews
             </a>
             , made with love for a better web
           </p>

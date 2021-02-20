@@ -40,15 +40,12 @@ class Typography extends Component {
                     <div>
                       <Button bsStyle="info" fill type="submit">
                         Login
-                    </Button>
+                      </Button>
                       <p className="category">
-                        <a
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          href="https://github.com/igorprado"
-                        ></a>
-                     Cadastrar-se
-                    </p>
+                        <a href="/admin/user">
+                          Cadastrar-se
+                        </a>
+                      </p>
                     </div>
                   </form>
                 }
