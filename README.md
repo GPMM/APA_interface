@@ -1,4 +1,6 @@
-# APA
+# Interface do professor para o aplicativo APA
+
+### Projeto em React.js desenvolvido no TCC do CEFET/RJ para servir de interface para o professor analisar os dados coletados pelo aplicativo APA.
 
 <br/>
 
