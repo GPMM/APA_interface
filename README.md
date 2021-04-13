@@ -54,7 +54,7 @@ $ npm start
 
 ---
 
-## Autor
+## Autora
 
 <a href="https://github.com/rafaelaandrews">
  <img style="border-radius: 50% 50% 0 0; padding-top:10px" src="https://avatars.githubusercontent.com/u/37222413?v=4" width="100px;" alt=""/>
