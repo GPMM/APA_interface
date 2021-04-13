@@ -1,6 +1,4 @@
-# CAV API - Centro de atendimento Volanty
-
-### Desafio técnico proposto durante o processo seletivo para vaga de desenvolvedor _back end_ na Volanty. Veja mais em **[Proposta](https://github.com/PabloManoel/Desafio-volanty/blob/master/desafio.md)**.
+# APA
 
 <br/>
 
