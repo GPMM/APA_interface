@@ -61,9 +61,9 @@ $ npm start
 </a>
 <br />
 
-### Feito por Pablo Manoel 🤘 Entre em contato!
+### Feito por Rafaela Andrews 🤘 Entre em contato!
 
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" width="40" alt="Medium" />](https://github.com/rafaelaandrews)&nbsp;&nbsp;&nbsp;
+[<img src="https://avatars.githubusercontent.com/u/37222413?v=4" height="40" width="40" alt="Medium" />](https://github.com/rafaelaandrews)&nbsp;&nbsp;&nbsp;
 [<img src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="40" width="40" alt="Linkedin" />](https://www.linkedin.com/in/rafaela-andrews-403190153/)&nbsp;&nbsp;
 
 ---
